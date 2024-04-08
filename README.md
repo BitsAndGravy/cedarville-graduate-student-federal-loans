@@ -11,3 +11,6 @@
  1. Remove unnecessary letters at the end of each graduate program abbreviation (for example: change MSN.NSG to MSN)
  2. Merge the two spreadsheets together as Table 1
  3. Split up the Unsub and PLUS loans from one column into two columns (for example: Student6008 accepted $33,000 in Unsub loans and $0 in PLUS loans) as Table 2
+
+
+For a thorough description of the files and the information they contain, see the last pages of Data description.pdf
